@@ -8,6 +8,8 @@ This is an example to show different parts of the Git repository and various com
 
 ## Deployment
 
+This is a simple web project. Deployment can be on any web server or even local file system.
+
 ## Purpose
 
 As stated above, the main purpose is to provide simple examples for GIT training demos.
